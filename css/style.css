@@ -39,7 +39,7 @@ background: linear-gradient(90deg, rgba(142,79,242,1) 45%, rgba(79,136,242,1) 72
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: url("/img/imgFundo.png");
+    background-image: url("https://naylsonnk.github.io/img/imgFundo.png");
     
     
 }
